@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on inventory management software for resellers<br>🤝 I’m looking for help with any projects related with python<br>🌱 I’m currently learning python and js/ts<br>⚡ PS. Looking for a python job
+🔭 I’m currently working on inventory management software for resellers<br>🤝 I’m looking for help with any projects related to python<br>🌱 I’m currently learning python and js/ts<br>⚡ PS. Looking for a job as a python dev
 
 
 ## 🌐 Socials:
