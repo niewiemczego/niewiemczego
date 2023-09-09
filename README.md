@@ -14,7 +14,7 @@ I'm a second-year university student pursuing a degree in Computer Science and E
 
 Here are some of my key skills:
 
-- **Languages:** Python, SQL (basic)
+- **Languages:** Python, JS (basic), SQL (basic)
 - **Web Development:** HTML, CSS (basic)
 - **Version Control:** Git, GitHub
 
