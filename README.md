@@ -33,7 +33,7 @@ Let's connect and chat about tech, data, or anything interesting! You can find m
 
 - [LinkedIn](https://www.linkedin.com/in/tymoteusz-sikora)
 - [Twitter/X](https://twitter.com/niewiemczego)
-- [Discord](niewiemczego)
+- Discord: niewiemczego
 
 ## 🤝 Looking for Opportunities
 
