@@ -6,7 +6,7 @@ I'm a second-year university student pursuing a degree in Computer Science and E
 
 ## 🚀 Quick Overview
 
-- 🔭 I'm currently working on CryptoMirror(currently private tho u can ask me about it).
+- 🔭 I'm currently working on ByteSoftware Company(currently private tho u can ask me about it).
 - 🌱 I'm learning more about web flow and how to bypass different types of securities like Akamai, Datadome, PerimeterX etc.
 - 💬 Ask me about Python, web scraping.
 
