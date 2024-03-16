@@ -1,12 +1,12 @@
 # Hello, I'm Tim! 👋
 
-I'm a second-year university student pursuing a degree in Computer Science and Econometrics. Aspiring Python developer passionate about leveraging data-driven solutions to solve real-world problems. 🐍
+I'm a second-year university student pursuing a degree in Informatics and Econometrics. Aspiring Python developer passionate about leveraging data-driven solutions to solve real-world problems. 🐍
 
 ⚡ Currently, I'm sharpening my skills and seeking challenging internships to apply my knowledge and gain practical experience.
 
 ## 🚀 Quick Overview
 
-- 🔭 I'm currently working on ByteSoftware Company(currently private tho u can ask me about it).
+- 🔭 I'm currently working on web scraping system to replicate trading orders from top-performing traders across major cryptocurrency exchanges.
 - 🌱 I'm learning more about web flow and how to bypass different types of securities like Akamai, Datadome, PerimeterX etc.
 - 💬 Ask me about Python, web scraping.
 
@@ -14,8 +14,8 @@ I'm a second-year university student pursuing a degree in Computer Science and E
 
 Here are some of my key skills:
 
-- **Languages:** Python, JS (basic), SQL (basic)
-- **Web Development:** HTML, CSS (basic)
+- **Languages:** Python, JS (basics), SQL (basics)
+- **Web Development:** HTML, CSS (basics)
 - **Version Control:** Git, GitHub
 
 ## 📊 Projects
