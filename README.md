@@ -1,4 +1,4 @@
-# Hello, I'm Tim! 👋
+# Hey, I'm Tim! 👋
 
 I'm a third-year university student pursuing a degree in Informatics and Econometrics. Aspiring Python developer passionate about leveraging data-driven solutions to solve real-world problems. 🐍
 
