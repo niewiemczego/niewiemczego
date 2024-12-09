@@ -1,12 +1,12 @@
 # Hello, I'm Tim! 👋
 
-I'm a second-year university student pursuing a degree in Informatics and Econometrics. Aspiring Python developer passionate about leveraging data-driven solutions to solve real-world problems. 🐍
+I'm a third-year university student pursuing a degree in Informatics and Econometrics. Aspiring Python developer passionate about leveraging data-driven solutions to solve real-world problems. 🐍
 
 ⚡ Currently, I'm sharpening my skills and seeking challenging internships to apply my knowledge and gain practical experience.
 
 ## 🚀 Quick Overview
 
-- 🔭 I'm currently working on web scraping system to replicate trading orders from top-performing traders across major cryptocurrency exchanges.
+- 🔭 I'm currently working on various web scraping systems.
 - 🌱 I'm learning more about web flow and how to bypass different types of securities like Akamai, Datadome, PerimeterX etc.
 - 💬 Ask me about Python, web scraping.
 
@@ -21,7 +21,7 @@ Here are some of my key skills:
 ## 📊 Projects
 
 Check out some of my recent projects:
-
+more soon........
 - [Python-bingx](https://github.com/niewiemczego/python-bingx): powerful and flexible Python package that allows you to easily interact with the BingX API. The package currently supports the Spot API, Standard API, Perpetual Swap API Reference V1, and Perpetual Swap API Reference V2. With python-bingx, you can retrieve real-time market data, manage your account, place trades, and more...
 - [Nike SNKRS Release Monitor](https://github.com/niewiemczego/nike-stock-monitor): python-based web scraping tool designed to track and monitor upcoming sneaker releases on the Nike SNKRS website. Sneaker enthusiasts often find it challenging to secure limited-edition sneakers, and this project aims to provide an advantage by notifying users about upcoming releases, increasing their chances of purchasing their desired sneakers.
 
