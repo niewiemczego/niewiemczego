@@ -1,44 +1,45 @@
-# Hey, I'm Tim! 👋
+# Hey, I'm Tim! 👾
 
-I'm a third-year university student pursuing a degree in Informatics and Econometrics. Aspiring Python developer passionate about leveraging data-driven solutions to solve real-world problems. 🐍
+Welcome to my domain—where breaking barriers meets automating the impossible. I'm a security enthusiast with a sharp focus on **penetration testing** and **automation** for dating apps. Over the past few months, I've successfully achieved **full API access** for platforms like **Feeld**, **Hinge**, and **Grindr**. My mission? To explore, automate, and dominate the realms of modern app infrastructures.
 
-⚡ Currently, I'm sharpening my skills and seeking challenging internships to apply my knowledge and gain practical experience.
+## 💻 What I Do
 
-## 🚀 Quick Overview
+I'm not your average Python developer. Here's where I shine:
 
-- 🔭 I'm currently working on various web scraping systems.
-- 🌱 I'm learning more about web flow and how to bypass different types of securities like Akamai, Datadome, PerimeterX etc.
-- 💬 Ask me about Python, web scraping.
+- 🔐 **Reverse Engineering APIs:** I specialize in understanding and leveraging APIs to unlock advanced functionality in apps.
+- 🤖 **Automation Expert:** Building scalable systems for account creation, interaction automation, and data management across various platforms.
+- 🧠 **Data-Driven Solutions:** Designing tools that streamline processes and uncover insights through data automation.
 
-## 🛠️ Skills
+## 🛠️ Skills & Toolkit
 
-Here are some of my key skills:
-
-- **Languages:** Python, JS (basics), SQL (basics)
+- **Languages:** Python, JavaScript (basics), SQL (basics)
+- **Core Expertise:** Reverse engineering, API automation, and account management workflows
 - **Web Development:** HTML, CSS (basics)
-- **Version Control:** Git, GitHub
 
-## 📊 Projects
+## 🚀 Current Projects
 
-Check out some of my recent projects:
-more soon........
-- [Python-bingx](https://github.com/niewiemczego/python-bingx): powerful and flexible Python package that allows you to easily interact with the BingX API. The package currently supports the Spot API, Standard API, Perpetual Swap API Reference V1, and Perpetual Swap API Reference V2. With python-bingx, you can retrieve real-time market data, manage your account, place trades, and more...
-- [Nike SNKRS Release Monitor](https://github.com/niewiemczego/nike-stock-monitor): python-based web scraping tool designed to track and monitor upcoming sneaker releases on the Nike SNKRS website. Sneaker enthusiasts often find it challenging to secure limited-edition sneakers, and this project aims to provide an advantage by notifying users about upcoming releases, increasing their chances of purchasing their desired sneakers.
+- 🔭 **Dating App API Automation:** Developing systems to manage profiles, interactions, and analytics at scale for dating platforms.
+- 👟 **Sneaker Stock Monitoring:** Empowering sneakerheads to beat the bots with my Nike SNKRS Release Monitor.
+- 💰 **Market Data Automation:** Streamlining financial operations with my Python-BingX library.
 
-You can find more of my work on [GitHub](https://github.com/niewiemczego).
+### Featured Repos
+
+- [Python-bingx](https://github.com/niewiemczego/python-bingx): A powerful Python package for interacting with the BingX API. Supports Spot, Standard, and Perpetual Swap APIs for real-time data, trading, and account management.
+- [Nike SNKRS Release Monitor](https://github.com/niewiemczego/nike-stock-monitor): A Python-based tool for monitoring sneaker releases, giving users a competitive edge in the sneaker game.
+
+More projects coming soon... Stay tuned!
 
 ## 🌐 Connect with Me
 
-Let's connect and chat about tech, data, or anything interesting! You can find me on:
+I'm always up for a chat about tech, security, or automation. Reach out and let's collaborate:
 
-- [LinkedIn](https://www.linkedin.com/in/tymoteusz-sikora)
 - [Twitter/X](https://twitter.com/niewiemczego)
 - Discord: niewiemczego
 
-## 🤝 Looking for Opportunities
+## 🚨 Opportunities Wanted
 
-I'm actively seeking challenging internships and opportunities to apply my Python skills and gain valuable experience. If you have an opportunity that aligns with my interests, feel free to reach out. I'm excited to connect with you!
+I'm actively seeking **challenging collaborations** and **projects** that push the limits of automation and reverse engineering. Whether you're looking to automate workflows, analyze data or improve app efficiency, let's make it happen!
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. 🥶
+Thank you for visiting my GitHub profile. Dive into my repositories, and don't hesitate to reach out if you have ideas, challenges or opportunities. 🚀
