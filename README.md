@@ -7,19 +7,15 @@ Welcome to my space of breaking barriers and automating the impossible. When mos
 - **Automation:** I build scalable systems for account creation, interaction automation and data management.
 - **Data-Driven Solutions:** I design tools that streamline processes and reveal actionable insights.
 
-## Current Projects
-- **Dating App API Automation:** Managing profiles, interactions, and analytics for dating platforms.
-- **Sneaker Stock Monitoring:** Helping sneakerheads beat the bots with my Nike SNKRS Release Monitor.
-- **Financial Tools:** Automating market data and trading with my Python-BingX library.
-
 ## Featured Repositories
-- **[BingX Sign Header Generator](https://github.com/niewiemczego/bingx-sign-header-generator):** Implementation for generating sign header, which is needed for identifying the request and ensuring its reality.
-- **[Nike SNKRS Release Monitor](https://github.com/niewiemczego/nike-stock-monitor):** A monitoring tool for nike sneakers releases.
+- **[Feeld](https://github.com/niewiemczego/Feeld):** Asynchronous API wrapper for the Feeld dating app, designed for multi-profile management and automation.
+- **[BingX Sign Header Generator](https://github.com/niewiemczego/bingx-sign-header-generator):** Implementation for generating sign header, which is needed for identifying the request and ensuring its reality. It was reverse-engineered from their obfuscated JavaScript.
+- **[Gmail Alias Generator](https://github.com/niewiemczego/gmail-alias-generator):** Web app to generate Gmail aliases using the "dot" and "plus" tricks to create variations for different services or tracking.
 
 ## Connect
-
 - **Twitter/X:** [@niewiemczego](https://x.com/niewiemczego)
 - **Discord:** niewiemczego
+- **Telegram:** niewiemczego
 
 ## Opportunities
 
