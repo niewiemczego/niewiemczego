@@ -1,6 +1,6 @@
 # Hey, I'm Tim! 👾
 
-Welcome to my space of breaking barriers and automating the impossible. When most intern/junior offers are declining, I try to stand out by doing what others don't - unlocking full API access for platforms like **Feeld**, **Hinge** and many more...
+Welcome to my space of breaking barriers and automating the impossible. When most intern/junior offers are declining, I try to stand out by doing what others don't - unlocking full API access for platforms like **Feeld**, **Hinge**, **Grindr**, **Tinder** and many more...
 
 ## What I Do
 - **Reverse-Engineered APIs:** I dig deep into apps to understand and leverage their APIs.
