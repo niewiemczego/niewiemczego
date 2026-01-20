@@ -10,8 +10,8 @@ I specialize in unlocking full API access for platforms that others can't touch,
 
 ## Stuff I'm Good At (not a genius, but I think decent tho)
 - **Python** - I actually understand how Python works under the hood, not just how to use it.
-- **Reverse Engineering** - Analyzing network traffic, deobfuscating JavaScript, and bypassing anti-bot measures.
-- **System Architecture** - Building scalable automation systems and account management infrastructure.
+- **Reverse Engineering** - Analyzing network traffic, deobfuscating JavaScript, and bypassing anti-bot measures(from time to time).
+- **Practical Scripting** - I build functional tools and bots to solve specific problems, keeping the code clean and effective.
 
 ## Connect
 - [Twitter/X](https://x.com/niewiemczego)
