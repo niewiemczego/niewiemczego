@@ -1,17 +1,20 @@
 # Tim (niewiemczego)
 
-## Current Focus - Reverse Engineering & Automation
-I specialize in unlocking full API access for platforms that others can't touch, including **Feeld**, **Hinge**, **Tinder**, and many more...
-
-## Notable Projects
-- [Feeld](https://github.com/niewiemczego/Feeld) - Asynchronous API wrapper for the Feeld, designed for multi-profile management and automation.
-- [BingX Sign Header Generator](https://github.com/niewiemczego/bingx-sign-header-generator) - Implementation for generating sign headers reverse-engineered from obfuscated JavaScript. 
-- [Gmail Alias Generator](https://github.com/niewiemczego/gmail-alias-generator) - Web app to generate Gmail aliases using "dot" and "plus" tricks for service variations.
+## Current Focus - API Intercepting / Bypassing Security Measures & Automation
+I specialize in unlocking full API access for platforms that others can't touch 
 
 ## Stuff I'm Good At (not a genius, but I think decent tho)
 - **Python** - I actually understand how Python works under the hood, not just how to use it.
-- **Reverse Engineering** - Analyzing network traffic, deobfuscating JavaScript, and bypassing anti-bot measures(only for educational purposes ofc).
+- **Reverse Engineering** - Analyzing network traffic, deobfuscating JavaScript, and bypassing some anti-bot measures(only for educational purposes ofc).
 - **Practical Scripting** - I build functional tools and bots to solve specific problems, keeping the code clean and effective.
+
+## Programmers I Like
+- [ThinMatrix](https://www.youtube.com/@ThinMatrix)
+- [ArjanCodes](https://www.youtube.com/@ArjanCodes)
+- [LaurieWired](https://www.youtube.com/@lauriewired)
+- [CodingJesus](https://www.youtube.com/@CodingJesus)
+- [JuniperDev](https://www.youtube.com/@JuniperDev)
+- [Magicalbat](https://www.youtube.com/@Magicalbat)
 
 ## Connect
 - [Twitter/X](https://x.com/niewiemczego)
