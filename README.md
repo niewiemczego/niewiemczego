@@ -12,7 +12,6 @@ I specialize in unlocking full API access for platforms that others can't touch
 - [ThinMatrix](https://www.youtube.com/@ThinMatrix)
 - [ArjanCodes](https://www.youtube.com/@ArjanCodes)
 - [LaurieWired](https://www.youtube.com/@lauriewired)
-- [CodingJesus](https://www.youtube.com/@CodingJesus)
 - [JuniperDev](https://www.youtube.com/@JuniperDev)
 - [Magicalbat](https://www.youtube.com/@Magicalbat)
 
