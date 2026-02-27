@@ -14,6 +14,8 @@ I specialize in unlocking full API access for platforms that others can't touch
 - [LaurieWired](https://www.youtube.com/@lauriewired)
 - [JuniperDev](https://www.youtube.com/@JuniperDev)
 - [Magicalbat](https://www.youtube.com/@Magicalbat)
+- [BillyEllis](https://www.youtube.com/@BillyEllis)
+- [JoeGrand](https://www.youtube.com/@JoeGrand)
 
 ## Connect
 - [Twitter/X](https://x.com/niewiemczego)
