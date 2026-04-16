@@ -10,12 +10,13 @@ I specialize in unlocking full API access for platforms that others can't touch
 
 ## Programmers I Like
 - [ThinMatrix](https://www.youtube.com/@ThinMatrix)
+- [AnastasiInTech](https://www.youtube.com/@AnastasiInTech)
+- [JoeGrand](https://www.youtube.com/@JoeGrand)
 - [ArjanCodes](https://www.youtube.com/@ArjanCodes)
 - [LaurieWired](https://www.youtube.com/@lauriewired)
 - [JuniperDev](https://www.youtube.com/@JuniperDev)
 - [Magicalbat](https://www.youtube.com/@Magicalbat)
 - [BillyEllis](https://www.youtube.com/@BillyEllis)
-- [JoeGrand](https://www.youtube.com/@JoeGrand)
 
 ## Connect
 - [Twitter/X](https://x.com/niewiemczego)
